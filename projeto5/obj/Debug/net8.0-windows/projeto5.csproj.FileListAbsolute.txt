@@ -1,0 +1,32 @@
+C:\Users\ricar\OneDrive\Área de Trabalho\fundamentos da programação\projeto5\projeto5\bin\Debug\net8.0-windows\projeto5.exe
+C:\Users\ricar\OneDrive\Área de Trabalho\fundamentos da programação\projeto5\projeto5\bin\Debug\net8.0-windows\projeto5.deps.json
+C:\Users\ricar\OneDrive\Área de Trabalho\fundamentos da programação\projeto5\projeto5\bin\Debug\net8.0-windows\projeto5.runtimeconfig.json
+C:\Users\ricar\OneDrive\Área de Trabalho\fundamentos da programação\projeto5\projeto5\bin\Debug\net8.0-windows\projeto5.dll
+C:\Users\ricar\OneDrive\Área de Trabalho\fundamentos da programação\projeto5\projeto5\bin\Debug\net8.0-windows\projeto5.pdb
+C:\Users\ricar\OneDrive\Área de Trabalho\fundamentos da programação\projeto5\projeto5\obj\Debug\net8.0-windows\projeto5.Form1.resources
+C:\Users\ricar\OneDrive\Área de Trabalho\fundamentos da programação\projeto5\projeto5\obj\Debug\net8.0-windows\projeto5.csproj.GenerateResource.cache
+C:\Users\ricar\OneDrive\Área de Trabalho\fundamentos da programação\projeto5\projeto5\obj\Debug\net8.0-windows\projeto5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ricar\OneDrive\Área de Trabalho\fundamentos da programação\projeto5\projeto5\obj\Debug\net8.0-windows\projeto5.AssemblyInfoInputs.cache
+C:\Users\ricar\OneDrive\Área de Trabalho\fundamentos da programação\projeto5\projeto5\obj\Debug\net8.0-windows\projeto5.AssemblyInfo.cs
+C:\Users\ricar\OneDrive\Área de Trabalho\fundamentos da programação\projeto5\projeto5\obj\Debug\net8.0-windows\projeto5.csproj.CoreCompileInputs.cache
+C:\Users\ricar\OneDrive\Área de Trabalho\fundamentos da programação\projeto5\projeto5\obj\Debug\net8.0-windows\projeto5.dll
+C:\Users\ricar\OneDrive\Área de Trabalho\fundamentos da programação\projeto5\projeto5\obj\Debug\net8.0-windows\refint\projeto5.dll
+C:\Users\ricar\OneDrive\Área de Trabalho\fundamentos da programação\projeto5\projeto5\obj\Debug\net8.0-windows\projeto5.pdb
+C:\Users\ricar\OneDrive\Área de Trabalho\fundamentos da programação\projeto5\projeto5\obj\Debug\net8.0-windows\projeto5.genruntimeconfig.cache
+C:\Users\ricar\OneDrive\Área de Trabalho\fundamentos da programação\projeto5\projeto5\obj\Debug\net8.0-windows\ref\projeto5.dll
+C:\Users\ricar\Downloads\Ricardo_Lopes_cercal_2024101565 (5)\Ricardo_Lopes_cercal_2024101565\projeto5\bin\Debug\net8.0-windows\projeto5.exe
+C:\Users\ricar\Downloads\Ricardo_Lopes_cercal_2024101565 (5)\Ricardo_Lopes_cercal_2024101565\projeto5\bin\Debug\net8.0-windows\projeto5.deps.json
+C:\Users\ricar\Downloads\Ricardo_Lopes_cercal_2024101565 (5)\Ricardo_Lopes_cercal_2024101565\projeto5\bin\Debug\net8.0-windows\projeto5.runtimeconfig.json
+C:\Users\ricar\Downloads\Ricardo_Lopes_cercal_2024101565 (5)\Ricardo_Lopes_cercal_2024101565\projeto5\bin\Debug\net8.0-windows\projeto5.dll
+C:\Users\ricar\Downloads\Ricardo_Lopes_cercal_2024101565 (5)\Ricardo_Lopes_cercal_2024101565\projeto5\bin\Debug\net8.0-windows\projeto5.pdb
+C:\Users\ricar\Downloads\Ricardo_Lopes_cercal_2024101565 (5)\Ricardo_Lopes_cercal_2024101565\projeto5\obj\Debug\net8.0-windows\projeto5.Form1.resources
+C:\Users\ricar\Downloads\Ricardo_Lopes_cercal_2024101565 (5)\Ricardo_Lopes_cercal_2024101565\projeto5\obj\Debug\net8.0-windows\projeto5.csproj.GenerateResource.cache
+C:\Users\ricar\Downloads\Ricardo_Lopes_cercal_2024101565 (5)\Ricardo_Lopes_cercal_2024101565\projeto5\obj\Debug\net8.0-windows\projeto5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ricar\Downloads\Ricardo_Lopes_cercal_2024101565 (5)\Ricardo_Lopes_cercal_2024101565\projeto5\obj\Debug\net8.0-windows\projeto5.AssemblyInfoInputs.cache
+C:\Users\ricar\Downloads\Ricardo_Lopes_cercal_2024101565 (5)\Ricardo_Lopes_cercal_2024101565\projeto5\obj\Debug\net8.0-windows\projeto5.AssemblyInfo.cs
+C:\Users\ricar\Downloads\Ricardo_Lopes_cercal_2024101565 (5)\Ricardo_Lopes_cercal_2024101565\projeto5\obj\Debug\net8.0-windows\projeto5.csproj.CoreCompileInputs.cache
+C:\Users\ricar\Downloads\Ricardo_Lopes_cercal_2024101565 (5)\Ricardo_Lopes_cercal_2024101565\projeto5\obj\Debug\net8.0-windows\projeto5.dll
+C:\Users\ricar\Downloads\Ricardo_Lopes_cercal_2024101565 (5)\Ricardo_Lopes_cercal_2024101565\projeto5\obj\Debug\net8.0-windows\refint\projeto5.dll
+C:\Users\ricar\Downloads\Ricardo_Lopes_cercal_2024101565 (5)\Ricardo_Lopes_cercal_2024101565\projeto5\obj\Debug\net8.0-windows\projeto5.pdb
+C:\Users\ricar\Downloads\Ricardo_Lopes_cercal_2024101565 (5)\Ricardo_Lopes_cercal_2024101565\projeto5\obj\Debug\net8.0-windows\projeto5.genruntimeconfig.cache
+C:\Users\ricar\Downloads\Ricardo_Lopes_cercal_2024101565 (5)\Ricardo_Lopes_cercal_2024101565\projeto5\obj\Debug\net8.0-windows\ref\projeto5.dll
